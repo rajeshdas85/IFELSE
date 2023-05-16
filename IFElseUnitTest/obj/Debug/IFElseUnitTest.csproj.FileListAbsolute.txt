@@ -1,0 +1,17 @@
+D:\Users\rdas\source\repos\IFElseSample\IFElseUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\rdas\source\repos\IFElseSample\IFElseUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\rdas\source\repos\IFElseSample\IFElseUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\rdas\source\repos\IFElseSample\IFElseUnitTest\bin\Debug\IFElseUnitTest.dll
+D:\Users\rdas\source\repos\IFElseSample\IFElseUnitTest\bin\Debug\IFElseUnitTest.pdb
+D:\Users\rdas\source\repos\IFElseSample\IFElseUnitTest\bin\Debug\IFElseSample.exe
+D:\Users\rdas\source\repos\IFElseSample\IFElseUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Users\rdas\source\repos\IFElseSample\IFElseUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Users\rdas\source\repos\IFElseSample\IFElseUnitTest\bin\Debug\IFElseSample.pdb
+D:\Users\rdas\source\repos\IFElseSample\IFElseUnitTest\bin\Debug\IFElseSample.exe.config
+D:\Users\rdas\source\repos\IFElseSample\IFElseUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Users\rdas\source\repos\IFElseSample\IFElseUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Users\rdas\source\repos\IFElseSample\IFElseUnitTest\obj\Debug\IFElseUnitTest.csprojAssemblyReference.cache
+D:\Users\rdas\source\repos\IFElseSample\IFElseUnitTest\obj\Debug\IFElseUnitTest.csproj.CoreCompileInputs.cache
+D:\Users\rdas\source\repos\IFElseSample\IFElseUnitTest\obj\Debug\IFElseUnitTest.csproj.CopyComplete
+D:\Users\rdas\source\repos\IFElseSample\IFElseUnitTest\obj\Debug\IFElseUnitTest.dll
+D:\Users\rdas\source\repos\IFElseSample\IFElseUnitTest\obj\Debug\IFElseUnitTest.pdb

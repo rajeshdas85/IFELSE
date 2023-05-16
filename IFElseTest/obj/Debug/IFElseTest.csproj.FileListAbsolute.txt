@@ -1,0 +1,17 @@
+D:\Users\rdas\source\repos\IFElseSample\IFElseTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\rdas\source\repos\IFElseSample\IFElseTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\rdas\source\repos\IFElseSample\IFElseTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\rdas\source\repos\IFElseSample\IFElseTest\bin\Debug\IFElseTest.dll
+D:\Users\rdas\source\repos\IFElseSample\IFElseTest\bin\Debug\IFElseTest.pdb
+D:\Users\rdas\source\repos\IFElseSample\IFElseTest\bin\Debug\IFElseSample.exe
+D:\Users\rdas\source\repos\IFElseSample\IFElseTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Users\rdas\source\repos\IFElseSample\IFElseTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Users\rdas\source\repos\IFElseSample\IFElseTest\bin\Debug\IFElseSample.pdb
+D:\Users\rdas\source\repos\IFElseSample\IFElseTest\bin\Debug\IFElseSample.exe.config
+D:\Users\rdas\source\repos\IFElseSample\IFElseTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Users\rdas\source\repos\IFElseSample\IFElseTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Users\rdas\source\repos\IFElseSample\IFElseTest\obj\Debug\IFElseTest.csprojAssemblyReference.cache
+D:\Users\rdas\source\repos\IFElseSample\IFElseTest\obj\Debug\IFElseTest.csproj.CoreCompileInputs.cache
+D:\Users\rdas\source\repos\IFElseSample\IFElseTest\obj\Debug\IFElseTest.csproj.CopyComplete
+D:\Users\rdas\source\repos\IFElseSample\IFElseTest\obj\Debug\IFElseTest.dll
+D:\Users\rdas\source\repos\IFElseSample\IFElseTest\obj\Debug\IFElseTest.pdb
